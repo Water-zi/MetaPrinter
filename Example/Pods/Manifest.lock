@@ -1,0 +1,16 @@
+PODS:
+  - MetaPrinter (0.1.0)
+
+DEPENDENCIES:
+  - MetaPrinter (from `../`)
+
+EXTERNAL SOURCES:
+  MetaPrinter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MetaPrinter: 8d48acf7c21b7e971edab45699775b8ad27da30d
+
+PODFILE CHECKSUM: e6ee6f70e1c851d9d56c620d5dd472e71789e2a2
+
+COCOAPODS: 1.11.2
